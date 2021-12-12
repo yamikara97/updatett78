@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="invoice.xsl"?>
+<HDon>
+   <DLHDon Id="070e24ca-7a63-459c-be6b-b7c0dac399cc">
+      <TTChung>
+         <PBan>2.0.0</PBan>
+         <THDon>Nghị định 123 - Hóa đơn giá trị gia tăng</THDon>
+         <KHMSHDon>1</KHMSHDon>
+         <KHHDon>K21EGT</KHHDon>
+         <SHDon>1</SHDon>
+         <NLap>2021-10-31</NLap>
+         <DVTTe>VND</DVTTe>
+         <TGia>1</TGia>
+         <HTTToan>TM/CK</HTTToan>
+         <MSTTCGP>0100109106</MSTTCGP>
+         <MSTDVNUNLHDon />
+         <TDVNUNLHDon />
+         <DCDVNUNLHDon />
+         <TTKhac>
+            <TTin>
+               <DLieu>Đã thanh toán</DLieu>
+               <KDLieu>string</KDLieu>
+               <TTruong>Trạng thái thanh toán</TTruong>
+            </TTin>
+            <TTin>
+               <DLieu>3WNTEXO715FXE17</DLieu>
+               <KDLieu>string</KDLieu>
+               <TTruong>Mã số bí mật</TTruong>
+            </TTin>
+            <TTin>
+               <DLieu />
+               <KDLieu>string</KDLieu>
+               <TTruong>Ghi chú hóa đơn</TTruong>
+            </TTin>
+         </TTKhac>
+      </TTChung>
+      <NDHDon>
+         <NBan>
+            <Ten>TEST HOA DON 2.0</Ten>
+            <MST>0100109106-501</MST>
+            <DChi>hồng dân - bạc liêu</DChi>
+            <SDThoai>0123524789</SDThoai>
+            <DCTDTu>thieutv@is.viettel.com.vn</DCTDTu>
+            <STKNHang />
+            <TNHang />
+            <Fax />
+            <Website />
+            <TTKhac>
+               <TTin>
+                  <DLieu>Hồng Dân</DLieu>
+                  <KDLieu>string</KDLieu>
+                  <TTruong>Quận, huyện người bán</TTruong>
+               </TTin>
+               <TTin>
+                  <DLieu>Bạc Liêu</DLieu>
+                  <KDLieu>string</KDLieu>
+                  <TTruong>Tỉnh/Thành phố người bán</TTruong>
+               </TTin>
+               <TTin>
+                  <DLieu>84</DLieu>
+                  <KDLieu>string</KDLieu>
+                  <TTruong>Mã quốc gia người bán</TTruong>
+               </TTin>
+               <TTin>
+                  <DLieu />
+                  <KDLieu>string</KDLieu>
+                  <TTruong>Link tra cứu người bán</TTruong>
+               </TTin>
+            </TTKhac>
+         </NBan>
+         <NMua>
+            <Ten>Công ty TNHH Xanh Lá</Ten>
+            <MST>0100109106-999</MST>
+            <DChi>Trung Kính - Cầu Giấy - Hà Nội</DChi>
+            <MKHang />
+            <SDThoai />
+            <DCTDTu />
+            <HVTNMHang>Đàm Đức Vinh</HVTNMHang>
+            <STKNHang />
+            <TNHang />
+            <TTKhac>
+               <TTin>
+                  <DLieu />
+                  <KDLieu>string</KDLieu>
+                  <TTruong>Số fax người mua</TTruong>
+               </TTin>
+               <TTin>
+                  <DLieu />
+                  <KDLieu>string</KDLieu>
+                  <TTruong>Quận Huyện người mua</TTruong>
+               </TTin>
+               <TTin>
+                  <DLieu />
+                  <KDLieu>string</KDLieu>
+                  <TTruong>Tỉnh/Thành phố người mua</TTruong>
+               </TTin>
+               <TTin>
+                  <DLieu>VN</DLieu>
+                  <KDLieu>string</KDLieu>
+                  <TTruong>Mã quốc gia  người mua</TTruong>
+               </TTin>
+               <TTin>
+                  <DLieu />
+                  <KDLieu>string</KDLieu>
+                  <TTruong>Loại giấy tờ  người mua</TTruong>
+               </TTin>
+               <TTin>
+                  <DLieu />
+                  <KDLieu>string</KDLieu>
+                  <TTruong>Số giấy tờ  người mua</TTruong>
+               </TTin>
+               <TTin>
+                  <DLieu />
+                  <KDLieu>string</KDLieu>
+                  <TTruong>Ngày sinh người mua</TTruong>
+               </TTin>
+            </TTKhac>
+         </NMua>
+         <DSHHDVu>
+            <HHDVu>
+               <TChat>1</TChat>
+               <STT>1</STT>
+               <MHHDVu />
+               <THHDVu>Rau cải</THHDVu>
+               <DVTinh />
+               <SLuong>1.00</SLuong>
+               <DGia>100000</DGia>
+               <TLCKhau />
+               <STCKhau>0</STCKhau>
+               <ThTien>100000</ThTien>
+               <TSuat>10%</TSuat>
+               <TTKhac>
+                  <TTin>
+                     <DLieu />
+                     <KDLieu>string</KDLieu>
+                     <TTruong>Số lô</TTruong>
+                  </TTin>
+                  <TTin>
+                     <DLieu />
+                     <KDLieu>string</KDLieu>
+                     <TTruong>Hạn dùng</TTruong>
+                  </TTin>
+                  <TTin>
+                     <DLieu>10000</DLieu>
+                     <KDLieu>string</KDLieu>
+                     <TTruong>Tiền thuế dòng (Tiền thuế GTGT)</TTruong>
+                  </TTin>
+                  <TTin>
+                     <DLieu />
+                     <KDLieu>string</KDLieu>
+                     <TTruong>Ghi chú dòng</TTruong>
+                  </TTin>
+                  <TTin>
+                     <DLieu />
+                     <KDLieu>string</KDLieu>
+                     <TTruong>Tỷ lệ phí phục vụ</TTruong>
+                  </TTin>
+                  <TTin>
+                     <DLieu />
+                     <KDLieu>string</KDLieu>
+                     <TTruong>Tỷ lệ thuế TTDB</TTruong>
+                  </TTin>
+                  <TTin>
+                     <DLieu>0</DLieu>
+                     <KDLieu>string</KDLieu>
+                     <TTruong>Tiền phí phục vụ</TTruong>
+                  </TTin>
+                  <TTin>
+                     <DLieu>0</DLieu>
+                     <KDLieu>string</KDLieu>
+                     <TTruong>Tiền thuế Tiêu thụ đặc biệt</TTruong>
+                  </TTin>
+                  <TTin>
+                     <DLieu />
+                     <KDLieu>string</KDLieu>
+                     <TTruong>Chiết khấu lần 2</TTruong>
+                  </TTin>
+                  <TTin>
+                     <DLieu>110000</DLieu>
+                     <KDLieu>string</KDLieu>
+                     <TTruong>Thành tiền thanh toán của hàng hóa</TTruong>
+                  </TTin>
+               </TTKhac>
+            </HHDVu>
+         </DSHHDVu>
+         <TToan>
+            <DSLPhi />
+            <TTCKTMai>0</TTCKTMai>
+            <TgTTTBSo>110000</TgTTTBSo>
+            <TgTTTBChu>Một trăm mười nghìn đồng</TgTTTBChu>
+            <TTKhac>
+               <TTin>
+                  <DLieu>0</DLieu>
+                  <KDLieu>string</KDLieu>
+                  <TTruong>Tổng tiền thuế tiêu thụ đặc biệt</TTruong>
+               </TTin>
+               <TTin>
+                  <DLieu>0</DLieu>
+                  <KDLieu>string</KDLieu>
+                  <TTruong>Tổng tiền phí</TTruong>
+               </TTin>
+            </TTKhac>
+         </TToan>
+      </NDHDon>
+   </DLHDon>
+   <MCCQT />
+   <DSCKS>
+      <NBan>
+         <Signature />
+         <Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="seller">
+            <SignedInfo>
+               <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+               <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" />
+               <Reference URI="#070e24ca-7a63-459c-be6b-b7c0dac399cc">
+                  <Transforms>
+                     <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+                  </Transforms>
+                  <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+                  <DigestValue>YO+5Bk836p22vK/NGR4d7Rb1SqA=</DigestValue>
+               </Reference>
+               <Reference URI="#TimeStamp">
+                  <Transforms>
+                     <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+                  </Transforms>
+                  <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+                  <DigestValue>oSlp1gkU/3wzglFKuiSAJ2BdKAM=</DigestValue>
+               </Reference>
+            </SignedInfo>
+            <SignatureValue>Cllkx+FgqvpzH6bEYBtbtjWaNRAPZEfmRIXF5SWfTBTxYy2Hh8MVO8X5QzBoGi7nRbsqcGRka8Ya
+TffehcvlP18qGxgUZkIykdi9dC0BeeoI1loYC4dPpcdgkA6F4wzCK0/fI+E4+wlDnt8D/AkNBe35
+f9jti7iGaYBXcIoBzzk=</SignatureValue>
+            <KeyInfo>
+               <X509Data>
+                  <X509SubjectName>UID=MST:0100109106-501,CN=TEST HOA DON 2.0,L=BẠC LIÊU,C=VN</X509SubjectName>
+                  <X509Certificate>MIID5jCCAs6gAwIBAgIQVAT//rcDP7MW1nIgG4l0fTANBgkqhkiG9w0BAQUFADBOMQswCQYDVQQG
+EwJWTjESMBAGA1UEBwwJSMOgIE7hu5lpMRYwFAYDVQQKEw1WaWV0dGVsIEdyb3VwMRMwEQYDVQQD
+EwpWaWV0dGVsLUNBMB4XDTIxMTAyOTAxMjU0M1oXDTIyMTAyOTAxMjU0M1owYjELMAkGA1UEBhMC
+Vk4xFDASBgNVBAcMC0LhuqBDIExJw4pVMRkwFwYDVQQDDBBURVNUIEhPQSBET04gMi4wMSIwIAYK
+CZImiZPyLGQBAQwSTVNUOjAxMDAxMDkxMDYtNTAxMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKB
+gQC+nUfYxrb126f+Y8Ug1ic6sdwLxfiM16hLjM9XwZ5ueQxahayBk4GaJbD9iseMzsG7BRs19cp4
+sYc11gLDpy3GOOnJwlFFwLSqhaEN78mGbaOB/WG5jiEOHEuCMxGOJlIUPrFhGeA7zpU4LxwD3m7L
+JcniqPGJPCDYAkm6g0A/ZQIDAQABo4IBLjCCASowNQYIKwYBBQUHAQEEKTAnMCUGCCsGAQUFBzAB
+hhlodHRwOi8vb2NzcC52aWV0dGVsLWNhLnZuMB0GA1UdDgQWBBQqiuTFy8Z+KVbNJiIyvBpRFhd8
+yjAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFP7LQRTpXafZMg3ksghc8VzstrK1MIGSBgNVHR8E
+gYowgYcwgYSgLqAshipodHRwOi8vY3JsLnZpZXR0ZWwtY2Eudm4vVmlldHRlbC1DQS12My5jcmyi
+UqRQME4xEzARBgNVBAMMClZpZXR0ZWwtQ0ExFjAUBgNVBAoMDVZpZXR0ZWwgR3JvdXAxEjAQBgNV
+BAcMCUjDoCBO4buZaTELMAkGA1UEBhMCVk4wDgYDVR0PAQH/BAQDAgXgMA0GCSqGSIb3DQEBBQUA
+A4IBAQC0QCLeIcg4d1wNfqVFvyAEYisEOE6Wka8ZGLy71J+VXb69DB2N5ilmEK0MZ+GLE8stZLo6
+3/kyI5IMGrFgtLxj3j/p3qz2xu1X4UoZGJEjFBUtVMKTofiSNp7KUn2aDM7xwpOs2KudbsSWH1Dz
+JRBs66o82bcSym+ZSr5FlP/WOByLlnPPAy+RExRbcvPn6p0Dp8RbvlbOvWXzCTfYc1WHUBkdH6dV
+gbqICPLGT8gHMwiBHOgaqID5fE5L8+/o6eKoT2iQaRd+DqhHsFgZT2aUXIuGtOM0Yn27/A4rL0gS
+mvZR7mh/58QoxqkT5PZ1pkMaphwJTWdr77IO06n0+9px</X509Certificate>
+               </X509Data>
+            </KeyInfo>
+            <Object Id="TimeStamp">
+               <SignatureProperties Id="id1">
+                  <SignatureProperty Id="id" Target="">
+                     <SigningTime>2021-10-31T18:26:13</SigningTime>
+                  </SignatureProperty>
+               </SignatureProperties>
+            </Object>
+         </Signature>
+      </NBan>
+      <NMua>
+         <Signature />
+      </NMua>
+      <CQT>
+         <Signature />
+      </CQT>
+      <CCKSKhac>
+         <Signature />
+      </CCKSKhac>
+   </DSCKS>
+</HDon>
